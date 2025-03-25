@@ -1,0 +1,19 @@
+- name: "Classic Hoodie"
+  image: "assets/images/hoodie.jpg"
+  description: "A cozy and stylish hoodie for all occasions."
+  price: 39.99
+
+- name: "Casual T-Shirt"
+  image: "assets/images/tshirt.jpg"
+  description: "A breathable and comfortable t-shirt."
+  price: 19.99
+
+- name: "Denim Jacket"
+  image: "assets/images/jacket.jpg"
+  description: "A timeless denim jacket to elevate your style."
+  price: 49.99
+
+- name: "Sneakers"
+  image: "assets/images/sneakers.jpg"
+  description: "Trendy sneakers for ultimate comfort and fashion."
+  price: 59.99
